@@ -1,0 +1,7 @@
+KAVACH brand assets
+
+Logo: replace public/assets/kavach-logo.svg with your official KAVACH logo file (keep the same filename/format), or update logoAsset in src/main.jsx.
+Trainer photo: replace public/assets/trainer-photo.svg with your real trainer photo and update trainerDefault in src/main.jsx if using another filename.
+Home wallpaper: home-wallpaper.jpg is the image supplied for the project.
+
+Students are not given any logo/trainer upload controls. These are site-managed assets.
